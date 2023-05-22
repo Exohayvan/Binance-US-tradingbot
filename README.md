@@ -1,9 +1,9 @@
 # Binance-US-tradingbot
 
-[![Contributors](https://img.shields.io/github/contributors/Exohayvan/Binance-US-tradingbot?style=flat)](https://github.com/Exohayvan/Binance-US-tradingbot/graphs/contributors)
-[![Forks](https://img.shields.io/github/forks/Exohayvan/Binance-US-tradingbot?style=flat)](https://github.com/Exohayvan/Binance-US-tradingbot/network/members)
-[![Stargazers](https://img.shields.io/github/stars/Exohayvan/Binance-US-tradingbot?style=flat)](https://github.com/Exohayvan/Binance-US-tradingbot/stargazers)
-[![Issues](https://img.shields.io/github/issues/Exohayvan/Binance-US-tradingbot?style=flat)](https://github.com/Exohayvan/Binance-US-tradingbot/issues)
+[![Contributors](https://img.shields.io/github/contributors/Exohayvan/Binance-US-tradingbot?style=for-the-badge)](https://github.com/Exohayvan/Binance-US-tradingbot/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/Exohayvan/Binance-US-tradingbot?style=for-the-badge)](https://github.com/Exohayvan/Binance-US-tradingbot/network/members)
+[![Stargazers](https://img.shields.io/github/stars/Exohayvan/Binance-US-tradingbot?style=for-the-badge)](https://github.com/Exohayvan/Binance-US-tradingbot/stargazers)
+[![Issues](https://img.shields.io/github/issues/Exohayvan/Binance-US-tradingbot?style=for-the-badge)](https://github.com/Exohayvan/Binance-US-tradingbot/issues)
 [![MIT License](https://img.shields.io/github/license/Exohayvan/Binance-US-tradingbot?style=for-the-badge)](https://github.com/Exohayvan/Binance-US-tradingbot/blob/main/LICENSE.md)
 
 <!-- PROJECT LOGO -->
