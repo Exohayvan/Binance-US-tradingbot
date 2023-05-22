@@ -1,12 +1,10 @@
 # Binance-US-tradingbot
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][https://github.com/Exohayvan/Binance-US-tradingbot/blob/main/LICENSE.md]
-![Size][repo-size]
-![Code][code-size]
+[![Contributors](https://img.shields.io/github/contributors/Exohayvan/Binance-US-tradingbot?style=flat)](https://github.com/Exohayvan/Binance-US-tradingbot/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/Exohayvan/Binance-US-tradingbot?style=flat)](https://github.com/Exohayvan/Binance-US-tradingbot/network/members)
+[![Stargazers](https://img.shields.io/github/stars/Exohayvan/Binance-US-tradingbot?style=flat)](https://github.com/Exohayvan/Binance-US-tradingbot/stargazers)
+[![Issues](https://img.shields.io/github/issues/Exohayvan/Binance-US-tradingbot?style=flat)](https://github.com/Exohayvan/Binance-US-tradingbot/issues)
+[![MIT License](https://img.shields.io/github/license/Exohayvan/Binance-US-tradingbot?style=for-the-badge)](https://github.com/Exohayvan/Binance-US-tradingbot/blob/main/LICENSE.md)
 
 <!-- PROJECT LOGO -->
 <br />
